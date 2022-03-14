@@ -397,6 +397,6 @@ public class DrawLines extends JPanel implements ActionListener {
     }
 
     public static void main(String[] args) {
-        new A5();
+        new DrawLines();
     }
 }
